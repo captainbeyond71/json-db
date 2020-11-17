@@ -1,0 +1,24 @@
+{
+  "cardContent": [
+    {
+      "image": "https://placeimg.com/400/200/tech",
+      "title": "I like the body. I like to design everything to do with the body.",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore, vero recusandae eius eveniet culpa consequuntur."
+    },
+    {
+      "image": "https://placeimg.com/400/200/arch",
+      "title": "Graphic design will save the world right after rock and roll does.",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore, vero recusandae eius eveniet culpa consequuntur."
+    },
+    {
+      "image": "https://placeimg.com/400/200/people",
+      "title": "Recognizing the need is the primary condition for design.",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore, vero recusandae eius eveniet culpa consequuntur."
+    },
+    {
+      "image": "https://placeimg.com/400/200/nature",
+      "title": "t a meta level, design connects the dots between mere survival and humanism.",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore, vero recusandae eius eveniet culpa consequuntur."
+    }
+  ]
+}
